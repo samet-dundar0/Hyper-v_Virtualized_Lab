@@ -21,7 +21,7 @@
 
 <p>
 
-<b>EN:</b> In this project, I created a Windows 11 virtual machine using the Hyper-V virtualization platform. During the setup process, I had the opportunity to work practically on many topics such as virtual machine creation, disk management, checkpoints, export/import operations, and different network types. At the same time, this project allowed me to apply the knowledge I learned about converter tools in practice.
+<b>EN:</b> In this project, I created a Windows 11 virtual machine using the Hyper-V virtualization platform. During the setup process, I had the opportunity to work practically on many topics such as virtual machine creation, disk management, checkpoints, export/import operations, and different network types. 
 
 </p>
 
