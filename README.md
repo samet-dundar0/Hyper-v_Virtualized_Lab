@@ -3,7 +3,7 @@
 
 <p>
 -Bu projemde Hyper-V sanallaştırma platformunu kullanarak Windows 11 sanal makinesi kurdum. Kurulum sürecinde sanal makine oluşturma, disk işlemleri, checkpoint yapısı (VMware tarafındaki snapshot mantığı), export/import işlemleri ve network tipleri gibi birçok konuda uygulamalı çalışma yapma fırsatı buldum.Aynı zamanda converter araçlarını da kullanarak öğrendiğim bilgileri pratiğe döktüğüm bir çalışma oldu. Bu proje sayesinde sanallaştırma tarafında öğrendiklerimi uyguladım.
-<br/>
+<br/><br/>
 -In this project, I created a Windows 11 virtual machine using the Hyper-V virtualization platform. During the setup process, I had the opportunity to work practically on many topics such as virtual machine creation, disk management, checkpoints (similar to the snapshot structure in VMware), export/import operations, and different network types.At the same time, this project allowed me to apply the knowledge I learned about converter tools in practice. Thanks to this project, I was able to put my virtualization knowledge into practice.
 </p>
 
