@@ -31,24 +31,6 @@
 
 
 
-\## 📋 Table of Contents
-
-
-
-\- \[Virtual Machine Settings](#%EF%B8%8F-virtual-machine-settings--sanal-makine-ayarları)
-
-\- \[Disk Adding And Expanding](#-disk-adding-and-expanding--disk-ekleme-ve-genişletme)
-
-\- \[Checkpoints](#-checkpoints)
-
-\- \[Export And Import](#-virtual-machine-export-and-import--dışa-ve-içeri-aktarma)
-
-\- \[Virtualization Networks](#-virtualization-networks--sanallaştırma-networkleri)
-
-
-
-\---
-
 
 
 <h2>⚙️ Virtual Machine Settings / Sanal Makine Ayarları</h2>
