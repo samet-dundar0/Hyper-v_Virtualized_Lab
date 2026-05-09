@@ -62,7 +62,7 @@
 
 &#x20;   <td align="center" width="33%">
 
-&#x20;     <img src="screenshots/1-virtual\_switch\_manager.png" width="100%" alt="Virtual Switch Manager"/>
+&#x20;     <img src="screenshots/1-virtual_switch_manager.png" width="100%" alt="Virtual Switch Manager"/>
 
 &#x20;     <br/><sub><b>1 — Virtual Switch Manager</b></sub>
 
@@ -70,7 +70,7 @@
 
 &#x20;   <td align="center" width="33%">
 
-&#x20;     <img src="screenshots/2-virtual\_machine\_settings.png" width="100%" alt="VM Settings"/>
+&#x20;     <img src="screenshots/2-virtual_machine_settings.png" width="100%" alt="VM Settings"/>
 
 &#x20;     <br/><sub><b>2 — VM General Settings</b></sub>
 
@@ -78,7 +78,7 @@
 
 &#x20;   <td align="center" width="33%">
 
-&#x20;     <img src="screenshots/3-virtual\_machine\_disk.png" width="100%" alt="VM Disk"/>
+&#x20;     <img src="screenshots/3-virtual_machine_disk.png" width="100%" alt="VM Disk"/>
 
 &#x20;     <br/><sub><b>3 — VM Disk Configuration</b></sub>
 
@@ -156,7 +156,7 @@
 
 &#x20;   <td align="center" width="50%">
 
-&#x20;     <img src="screenshots/4-disk\_befor.png" width="100%" alt="Disk Before"/>
+&#x20;     <img src="screenshots/4-disk_befor.png" width="100%" alt="Disk Before"/>
 
 &#x20;     <br/><sub><b>Before / Önce</b></sub>
 
@@ -164,7 +164,7 @@
 
 &#x20;   <td align="center" width="50%">
 
-&#x20;     <img src="screenshots/4-disk\_after.png" width="100%" alt="Disk After"/>
+&#x20;     <img src="screenshots/4-disk_after.png" width="100%" alt="Disk After"/>
 
 &#x20;     <br/><sub><b>After / Sonra</b></sub>
 
@@ -414,7 +414,7 @@
 
 &#x20;   <td align="center" width="50%">
 
-&#x20;     <img src="screenshots/14-virtual\_switch\_manager.png" width="100%" alt="Virtual Switch Manager"/>
+&#x20;     <img src="screenshots/14-virtual_switch_manager.png" width="100%" alt="Virtual Switch Manager"/>
 
 &#x20;     <br/><sub><b>1 — Virtual Switch Manager / Network Yapıları</b></sub>
 
@@ -422,7 +422,7 @@
 
 &#x20;   <td align="center" width="50%">
 
-&#x20;     <img src="screenshots/15-virtual\_machine\_bridged.png" width="100%" alt="Bridged Network"/>
+&#x20;     <img src="screenshots/15-virtual_machine_bridged.png" width="100%" alt="Bridged Network"/>
 
 &#x20;     <br/><sub><b>2 — Bridged Network Integration</b></sub>
 
@@ -434,7 +434,7 @@
 
 &#x20;   <td align="center" width="50%">
 
-&#x20;     <img src="screenshots/16-virtual\_machine\_bridged2.png" width="100%" alt="Ping Test"/>
+&#x20;     <img src="screenshots/16-virtual_machine_bridged2.png" width="100%" alt="Ping Test"/>
 
 &#x20;     <br/><sub><b>3 — Ping Test / Bağlantı Doğrulama</b></sub>
 
@@ -442,7 +442,7 @@
 
 &#x20;   <td align="center" width="50%">
 
-&#x20;     <img src="screenshots/17-virtual\_machine\_hostonly.png" width="100%" alt="Host-Only Network"/>
+&#x20;     <img src="screenshots/17-virtual_machine_hostonly.png" width="100%" alt="Host-Only Network"/>
 
 &#x20;     <br/><sub><b>4 — Host-Only Network</b></sub>
 
@@ -454,7 +454,7 @@
 
 &#x20;   <td align="center" width="50%">
 
-&#x20;     <img src="screenshots/18-virtual\_machine\_internal.png" width="100%" alt="Internal Network"/>
+&#x20;     <img src="screenshots/18-virtual_machine_internal.png" width="100%" alt="Internal Network"/>
 
 &#x20;     <br/><sub><b>5 — Internal Network</b></sub>
 
