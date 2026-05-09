@@ -16,8 +16,7 @@
 
 <p>
 
-<b>TR:</b> Bu projemde Hyper-V sanallaştırma platformunu kullanarak Windows 11 sanal makinesi kurdum. Kurulum sürecinde sanal makine oluşturma, disk işlemleri, checkpoint yapısı, export/import işlemleri ve network tipleri gibi birçok konuda uygulamalı çalışma yapma fırsatı buldum. Aynı zamanda converter araçlarını da kullanarak öğrendiğim bilgileri pratiğe döktüğüm bir çalışma oldu.
-
+<b>TR:</b> Bu projemde Hyper-V sanallaştırma platformunu kullanarak Windows 11 sanal makinesi kurdum. Kurulum sürecinde sanal makine oluşturma, disk işlemleri, checkpoint yapısı, export/import işlemleri ve network tipleri gibi birçok konuda uygulamalı çalışma yapma fırsatı buldum.
 </p>
 
 <p>
